@@ -6,5 +6,5 @@ print("Hello, world!")
 # Try changing the text above and running it again.
 # A '#' starts a comment — Python ignores everything after it.
 
-name = "Deepa"          # this stores text in a "variable" called name
+name = "Divya"          # this stores text in a "variable" called name
 print("My name is", name)
