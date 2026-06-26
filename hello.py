@@ -8,3 +8,4 @@ print("Hello, world!")
 
 name = "Divya"          # this stores text in a "variable" called name
 print("My name is", name)
+print ("I am learning to code")
